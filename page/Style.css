@@ -75,7 +75,7 @@ h1 {
 .dirt {
 	width: 60%;
 	height: 5%;
-	background: maroon;
+	background: red;
 	position: absolute;
 	border-radius: 0 0 1rem 1rem;
 	bottom: 1%;
